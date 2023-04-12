@@ -1,4 +1,11 @@
-# Ethereum Block Explorer
+# lil explorer
+
+Just a lil explorer to get nft contract's info and the latest block. 
+
+A little screen : 
+![screen](screen.png)
+
+____________________________________________________________________________________
 
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
 
